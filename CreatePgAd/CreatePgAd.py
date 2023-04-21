@@ -2,7 +2,7 @@
 import psycopg2	as pg
 from config import *
 from CreateTable import *
-
+connectionn=None
 try:
     connection = pg.connect(host=host,
                   port=port,
