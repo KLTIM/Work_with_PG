@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CreatePgAd", "CreatePgAd\CreatePgAd.pyproj", "{D888A050-F5D7-4BE1-9F5C-BAA40FB1AEBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D888A050-F5D7-4BE1-9F5C-BAA40FB1AEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D888A050-F5D7-4BE1-9F5C-BAA40FB1AEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30F7D488-35E4-4AFC-8B5E-F22099004915}
+	EndGlobalSection
+EndGlobal
